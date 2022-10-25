@@ -1,3 +1,8 @@
+//Jeremy Lapham
+//10-25-22
+//MiniCh1 All EndPoints
+//This program just has all the end points that we need for the first mini challenge
+
 using Microsoft.AspNetCore.Mvc;
 
 namespace AllMiniChEndPoints.Controllers;
